@@ -1,0 +1,7 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+            name="my_files"
+            path="Android/data/com.vovo.netmoneytask/files" />
+    <!-- 或者使用其他标签如external-files-path根据需要指定路径 -->
+</paths>
+

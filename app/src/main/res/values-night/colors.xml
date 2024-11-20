@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FFFFFF</color> <!-- 白色文本 -->
+    <color name="white">#121212</color> <!-- 深色背景 -->
+</resources>
